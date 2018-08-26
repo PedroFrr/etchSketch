@@ -1,6 +1,6 @@
 let x_pos = 0;
 let y_pos = 0;
-let rowWidth = 960; //change these values 
+let rowWidth = 540; //change these values 
 const container = document.body;
 const divContainer = document.createElement('div');
 const clearButton = document.createElement('button');
